@@ -7,7 +7,7 @@ framework to implement mvc architecture style in the application.
 How to install?
 
 If you have already install laravel frameowrk in you machine, then you can do the following:
-1. Download teh application.
+1. Download the application.
 2. Create new application in laravel using the following code: laravel new phonecat. 
 3. Go to the directory C://USERS/PC/phonecat
 4. Select all the files, and folder is the directory, and replace it by the application you have downloaded.
