@@ -26,6 +26,4 @@ If you have already install laravel frameowrk in you machine, then you can do th
 
 More features?
 
-If you need to apply any changes, or features to the code, please contacct me with my email. Or you can edit the code with you self :).
-
-AMSamour@gmail.com
+If you need to apply any changes, or features to the code, please feel free to edit the code with your self :).
